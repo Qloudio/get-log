@@ -19,11 +19,6 @@
     "url": "https://github.com/enricostara/get-log/issues"
   },
   "license": "MIT",
-  "dependencies": {
-    "colors": "latest",
-    "debug": "latest",
-    "buffer-crc32": "latest"
-  },
   "devDependencies": {
     "gulp": "latest",
     "gulp-jshint": "latest",
